@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey 👋 Security Enthusiast here  
 
-<!--
-**k-none-jk/k-none-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I explore **Web3 security, exploit research, and smart contract audits**.  
+I also publish writeups and maintain security labs.  
 
-Here are some ideas to get you started:
+## 🛡 Skills
+- Solidity attack vectors  
+- Reentrancy, flash loan, delegatecall  
+- Foundry fuzzing, Echidna, Slither  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Foundry Security Lab](https://github.com/k-none-jk/foundry-security-lab)
+- [nft-minter-dapp](https://github.com/k-none-jk/nft-minter-dapp)  
+- [Ethernaut Writeups](https://github.com/yourusername/ethernaut-writeups)  
+- [Gas Benchmarks](https://github.com/yourusername/gas-benchmarks)  
+
+## 📫 Connect
+ 
